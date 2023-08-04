@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>VIPINS'S RESUME </title>
+        <link rel = 'stylesheet' href = 'style.css'>
+    </head>
+    <body>
+      <nav >
+        <a href = '#images' style="color: rgb(31, 128, 254)">About</a>
+        <a href = '#_work'  style="color: rgb(31, 128, 254)">Work</a>
+        <a href = '#contact' style="color: rgb(31, 128, 254)">Contact</a>
+      </nav>
+
+      <div>
+      <img src = 'images/pic1.jpeg'  alt = 'deakin image' >
+      <p class = 'name'>Hey my name is  Vipin</p>
+      </div>
+      <br>
+      <br>
+
+      <main>
+        <section id="images">
+          <div class = "images">
+            <img src = 'images/dp.jpg' alt = 'My Profile Photo' style="margin-top:30px; margin-left:0; width: 150px; height: 150px; border-radius:100px;">          <br>
+
+          <br>
+          <h3 style="color: rgb(7, 189, 250)">I am a software engineer based in Uttrakhand, India</h3>
+          </div>
+        </section>
+        <P style="color: rgb(7, 189, 250)">____________________________________________________________</P>
+          <br>
+          <h2 style="color: rgb(7, 189, 250)">Here's What I've done so far</h2>
+   
+       
+          <section id="_work">
+            <div class="images">
+
+              <div class = "new1">
+              <img src="images/pickup.jpg" alt="pick up robo img" width = "25%" style=" margin-top:0; width: 200px; height: 200px; border-radius: 10px;" ></img>
+              <h4>---PICK UP ROBO: An advance delivery robot equipped with different sensors.
+                
+                
+              </h3>
+              </div>
+              <div class = "new">
+              <img src="images/dinepass.jpg" alt="dine pass img" width = "25%" style="width: 200px; height: 200px; border-radius: 10px"></img>
+              <h4>---An innovative method to authenticate students in mess of universities.
+                
+               </h3>
+              </div>
+            </div>
+          </section>
+        <p>
+          ____________________________________________________________
+        </p>
+          <section id="contact">
+            <h1>My Photos</h1>
+            <br>
+            <br>
+            <div class = "photos">
+            <div class = "one">
+              <img src="images/picture1.jpg" alt = "img1">
+            </div>
+            <div class = "two">
+              <img src="images/picture2.jpg" alt= "img2" >
+            </div>
+            <div class = "three">
+              <img src ="images/picture3.jpg"alt="img4" >
+            </div>
+            <div class = "four">
+              <img src="images/picture4.jpg" alt="img5" >
+            </div>
+        </section>
+    </body>
+</html>
